@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Pande</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Passionate about technology, I am dedicated to staying at the forefront of emerging trends and continuously expanding my knowledge in the field. With a strong desire to contribute to societal advancement, I am eager to leverage my skills to make meaningful contributions in the ever-evolving landscape of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-pande374&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-pande374" /> </p>
